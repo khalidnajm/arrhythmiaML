@@ -7,7 +7,7 @@ Created on Tue Jan 22 10:51:44 2019
 
 This programme train/test on arrhthymia data from 452 patients and, using six 
 different ML models, it will predict the classification of the severity of the 
-arrhythmia (1-16) that the patients in the validation dataset experice.
+arrhythmia (1-16) that the patients in the validation dataset experience.
 """
 
 # Load libraries
